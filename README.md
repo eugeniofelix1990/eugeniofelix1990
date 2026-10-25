@@ -78,27 +78,40 @@ Documentation, specs and books are how I learn. This is the shelf I have worked 
 
 | Area | References |
 |---|---|
+| **Testing & Quality Engineering** | *How Google Tests Software* (Whittaker, Arbon, Carollo) · *Python Testing with Pytest* (Brian Okken) |
+| **Advanced Automation & Programming** | *Fluent Python* (Luciano Ramalho) · *Expert C Programming: Deep C Secrets* (Peter van der Linden) · *Programming: Principles and Practice Using C++* (Bjarne Stroustrup) · *Automate the Boring Stuff with Python* (Al Sweigart) |
+| **Software Architecture & Reliability** | *Designing Data-Intensive Applications* (Martin Kleppmann) · *The Phoenix Project* (Gene Kim, Kevin Behr) |
+| **API Security & Web App Testing** | *The Web Application Hacker's Handbook* (Dafydd Stuttard, Marcus Pinto) · OWASP Top 10 Technical Documentation |
+| **Performance & Scalability** | *The Art of Application Performance Testing* (Ian Moline) · *Wireshark Network Analysis* (Laura Chappell) |
 | **Linux Kernel & System Internals** | *Linux Device Drivers, 3rd Ed.* (Corbet, Rubini, Kroah-Hartman) · *Linux Internals* (Anil Pugalia, SysPlay) · UNSW Linux Internals lecture notes · Linux Documentation Project · Yocto Project, U-Boot and Device Trees (DTS/DTB) |
-| **Embedded Systems** | *Making Embedded Systems* (Elecia White) · *Programming Embedded Systems* (Michael Barr) · *Classic Game Programming on the NES* · *6502 Assembly Language Programming* |
-| **C & C++** | *Expert C Programming: Deep C Secrets* (Peter van der Linden) · *Programming: Principles and Practice Using C++* (Bjarne Stroustrup) |
-| **Hardware Hacking & Security** | *The Hardware Hacker* (Andrew "bunnie" Huang) · *Practical Hardware Pentesting* (Jasper van Woudenberg) |
-| **Testing & Engineering Methodology** | *How Google Tests Software* (Whittaker, Arbon, Carollo) · *The Phoenix Project* (Gene Kim, Kevin Behr) |
-| **Automation & Networking** | *Automate the Boring Stuff with Python* (Al Sweigart) · *Wireshark Network Analysis* (Laura Chappell) |
+| **Embedded Systems & Hardware Security** | *Making Embedded Systems* (Elecia White) · *Programming Embedded Systems* (Michael Barr) · *The Hardware Hacker* (Andrew "bunnie" Huang) · *Practical Hardware Pentesting* (Jasper van Woudenberg) · *Classic Game Programming on the NES* · *6502 Assembly Language Programming* |
 
 <details>
 <summary>Full reading list</summary>
 
-**C, C++ & Low-Level Development**
+**Testing & Quality Engineering**
+- How Google Tests Software, James A. Whittaker, Jason Arbon & Jeff Carollo
+- Python Testing with Pytest, Brian Okken
+
+**Advanced Automation & Programming**
+- Fluent Python, Luciano Ramalho
 - Expert C Programming: Deep C Secrets, Peter van der Linden
 - Head First C, David Griffiths & Dawn Griffiths
 - Programming: Principles and Practice Using C++, Bjarne Stroustrup
 - C Programming Absolute Beginner's Guide, Greg Perry & Dean Miller
+- Automate the Boring Stuff with Python, Al Sweigart
 
-**Embedded Systems & Retro Architecture**
-- Making Embedded Systems: Design Patterns for Great Software, Elecia White
-- Programming Embedded Systems: With C and GNU Development Tools, Michael Barr
-- Classic Game Programming on the NES: Make Your Own Retro Video Game
-- 6502 Assembly Language Programming
+**Software Architecture & Reliability**
+- Designing Data-Intensive Applications, Martin Kleppmann
+- The Phoenix Project, Gene Kim & Kevin Behr
+
+**API Security & Web App Testing**
+- The Web Application Hacker's Handbook, Dafydd Stuttard & Marcus Pinto
+- OWASP Top 10 Technical Documentation
+
+**Performance & Scalability**
+- The Art of Application Performance Testing, Ian Moline
+- Wireshark Network Analysis: The Official Wireshark Certified Network Analyst Study Guide, Laura Chappell
 
 **Linux Kernel & System Internals**
 - Linux Device Drivers (3rd Edition), Jonathan Corbet, Alessandro Rubini & Greg Kroah-Hartman
@@ -108,17 +121,13 @@ Documentation, specs and books are how I learn. This is the shelf I have worked 
 - Linux Internals, Anil Pugalia (SysPlay)
 - Yocto Project Documentation, U-Boot, and Device Trees (DTS/DTB)
 
-**Hardware Hacking, Reverse Engineering & Security**
+**Embedded Systems, Hardware Hacking & Retro Architecture**
+- Making Embedded Systems: Design Patterns for Great Software, Elecia White
+- Programming Embedded Systems: With C and GNU Development Tools, Michael Barr
 - The Hardware Hacker, Andrew "bunnie" Huang
 - Practical Hardware Pentesting, Jasper van Woudenberg
-
-**Software QA, Testing & Engineering Methodologies**
-- How Google Tests Software, James A. Whittaker, Jason Arbon & Jeff Carollo
-- The Phoenix Project, Gene Kim & Kevin Behr
-
-**Automation & Tools**
-- Automate the Boring Stuff with Python, Al Sweigart
-- Wireshark Network Analysis: The Official Wireshark Certified Network Analyst Study Guide, Laura Chappell
+- Classic Game Programming on the NES: Make Your Own Retro Video Game
+- 6502 Assembly Language Programming
 
 </details>
 
