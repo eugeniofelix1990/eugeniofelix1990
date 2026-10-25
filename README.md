@@ -37,7 +37,7 @@ White-, gray- and black-box testing, chosen by risk. Atomic test design, ISTQB-a
 | **Automation & Tools** | Playwright, Pytest, Selenium, Postman, Jira, Xray (Test Management), Git, CI/CD integration |
 | **Systems & Low-Level** | C (Raster Filters), CUPS Architecture, ESC/POS Protocols, USB Device Interfacing, Bash, Embedded Concepts, Memory Optimization |
 | **Frontend & Architecture** | Advanced CSS, Web Components Overrides, Layout Contraction, `::after` Pseudo-element Injection, SVG Masking, Separation of Concerns (SoC) |
-| **Languages** | Python, C, Bash, Java, Kotlin |
+| **Languages** | Python, C, Bash, Java, Kotlin, C++ (Language-agnostic / Project-driven approach) |
 | **Environments** | Linux (Mint / Ubuntu / Debian), multi-workstation setups, comfortable moving between environments and stacks that involve other languages |
 
 ---
