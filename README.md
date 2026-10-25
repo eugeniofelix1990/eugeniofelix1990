@@ -82,7 +82,7 @@ Documentation, specs and books are how I learn. This is the shelf I have worked 
 | **Advanced Automation & Programming** | *Fluent Python* (Luciano Ramalho) · *Expert C Programming: Deep C Secrets* (Peter van der Linden) · *Programming: Principles and Practice Using C++* (Bjarne Stroustrup) · *Automate the Boring Stuff with Python* (Al Sweigart) |
 | **Software Architecture & Reliability** | *Designing Data-Intensive Applications* (Martin Kleppmann) · *The Phoenix Project* (Gene Kim, Kevin Behr) |
 | **API Security & Web App Testing** | *The Web Application Hacker's Handbook* (Dafydd Stuttard, Marcus Pinto) · OWASP Top 10 Technical Documentation |
-| **Performance & Scalability** | *The Art of Application Performance Testing* (Ian Moline) · *Wireshark Network Analysis* (Laura Chappell) |
+| **Performance & Scalability** | *The Art of Application Performance Testing* (Ian Molyneaux) · *Wireshark Network Analysis* (Laura Chappell) |
 | **Linux Kernel & System Internals** | *Linux Device Drivers, 3rd Ed.* (Corbet, Rubini, Kroah-Hartman) · *Linux Internals* (Anil Pugalia, SysPlay) · UNSW Linux Internals lecture notes · Linux Documentation Project · Yocto Project, U-Boot and Device Trees (DTS/DTB) |
 | **Embedded Systems & Hardware Security** | *Making Embedded Systems* (Elecia White) · *Programming Embedded Systems* (Michael Barr) · *The Hardware Hacker* (Andrew "bunnie" Huang) · *Practical Hardware Pentesting* (Jasper van Woudenberg) · *Classic Game Programming on the NES* · *6502 Assembly Language Programming* |
 
