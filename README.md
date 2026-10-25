@@ -110,7 +110,7 @@ Documentation, specs and books are how I learn. This is the shelf I have worked 
 - OWASP Top 10 Technical Documentation
 
 **Performance & Scalability**
-- The Art of Application Performance Testing, Ian Moline
+- The Art of Application Performance Testing, Ian Molyneaux
 - Wireshark Network Analysis: The Official Wireshark Certified Network Analyst Study Guide, Laura Chappell
 
 **Linux Kernel & System Internals**
